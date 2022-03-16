@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  I'm lexsd6 👋
 
 <!--
 **lexsd6/lexsd6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭   Currently learning go development.
+🤔   Looking for new  vulnerabilities.
+🎓   Studying Computer Science .
+💼   web 🧵🐟 && pwn 🥬🐔 .
+🌱   Enthusiast in cyber Security.
+✍️   Make complicated things simple.
+🎮   A short game can relax me 😌.
+![lexsd6's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexsd6&theme=react&show_icons=true)
