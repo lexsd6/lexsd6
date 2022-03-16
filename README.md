@@ -15,11 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭   Currently learning go development.
-🤔   Looking for new  vulnerabilities.
-🎓   Studying Computer Science .
-💼   web 🧵🐟 && pwn 🥬🐔 .
-🌱   Enthusiast in cyber Security.
-✍️   Make complicated things simple.
-🎮   A short game can relax me 😌.
+- 🔭 I’m currently learning python development.
+
+- 🤔 I’m looking for new  vulnerabilities.
+
+- 🎓 I’m currently learning Computer Science .
+
+- 💼 Web 🧵🐟 && Pwn 🥬🐔 .
+
+- 🌱 Enthusiast in cyber Security.
+
+- ✍️ Make complicated things simple.
+
+- 🎮 A short game can relax me 😌.
+
 ![lexsd6's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexsd6&theme=react&show_icons=true)
